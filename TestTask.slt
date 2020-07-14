@@ -1,6 +1,6 @@
 {
     "job_class": "PipelineJob",
-    "job_name": "TestTaskName",
+    "job_name": "TestTask",
     "note": "",
     "parameters": {
         "enabled": true,
@@ -8,13 +8,13 @@
         "include_external_urls": true,
         "job_alias": null,
         "job_type": "standard",
-        "llfeed_token": "tC8JrLwvmqTnhbtdUt2HUWljLbWn3JX8",
+        "llfeed_token": "eiIR60lYnt98FY2k6jwmzcKYSH9YBPmN",
         "max_failures": 10,
         "max_in_flight": 200,
         "notification": {
             "recipients": null
         },
-        "pipeline_path": null,
+        "pipeline_path": "pipeline_C92816TC_1",
         "snaplex_path": "Groundplex"
     },
     "schedule": {},
