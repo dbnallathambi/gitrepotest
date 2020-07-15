@@ -8,13 +8,13 @@
         "include_external_urls": true,
         "job_alias": null,
         "job_type": "standard",
-        "llfeed_token": "kFsdjX3wkwfUnuUEq2c3uzwamQ8lCn1P",
+        "llfeed_token": "71wwtqAiOaR5wkaSogwoY73PIMym0MlM",
         "max_failures": 10,
         "max_in_flight": 200,
         "notification": {
             "recipients": null
         },
-        "pipeline_path": "pipeline_C92816TC_3",
+        "pipeline_path": "pipeline_C92816TC_1",
         "snaplex_path": "Groundplex"
     },
     "schedule": {},
