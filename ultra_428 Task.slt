@@ -1,0 +1,37 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "ultra_428 Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "llfeed_token": "DusUMXPqIe1OzIVbahNj5ZkxZqvUJBHo",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "slack_recipients": [
+                {
+                    "channel": [],
+                    "user": []
+                }
+            ]
+        },
+        "pipeline_parameters": {
+            "key1": "444"
+        },
+        "pipeline_path": "ultra_428",
+        "snaplex_path": null,
+        "watchdog": {
+            "instances": 1,
+            "per": "PLEX"
+        }
+    },
+    "schedule": {
+        "always_on": true
+    },
+    "trigger": {
+        "always_on": true
+    },
+    "trigger_type": "ScheduleTrigger"
+}
